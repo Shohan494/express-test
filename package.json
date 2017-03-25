@@ -11,5 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shohan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shohan494/express-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shohan494/express-test/issues"
+  },
+  "homepage": "https://github.com/Shohan494/express-test#readme"
 }
