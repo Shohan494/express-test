@@ -6,9 +6,6 @@ var path = require("path");
 // Build the app
 var app = express();
 
-var express = require('express')
-var app = express()
-
 app.put('/message/:id', function(req, res) {
   var id = req.params.id
   var str = require('crypto')
